@@ -1,5 +1,3 @@
-# ExercicioSemana1
-
 # Exercicio em Angular
 
 Este repositório contém os exercícios em Angular para projeto MJV School 2023
