@@ -1,6 +1,6 @@
 # Exercicio em Angular
 
-Este repositório contém os exercícios em Angular para projeto MJV School 2023
+Este repositório contém o exercício em Angular para projeto MJV School 2023
 
 # Utilizado:
 
